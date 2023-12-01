@@ -34,8 +34,11 @@ Technical Indicators: Calculate the Simple Moving Average (SMA) to identify tren
 
 ## Trading Signals: 
 Generate signals based on SMA:
+
 --Buy signal when the closing price is above the SMA.
+
 --Sell signal when the closing price is below the SMA.
+
 --ARIMA Predictions: Apply the ARIMA model to forecast stock prices.
 
 ## Backtesting: 
