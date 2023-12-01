@@ -8,10 +8,15 @@ ARIMA Predictions: Implements the ARIMA model to forecast stock prices, aiding i
 Backtesting Strategy: Evaluates the effectiveness of the trading strategy by backtesting against historical data.
 Visualizations: Provides visual representations, including bar charts for cumulative returns and line charts illustrating Buy/Sell signals.
 
-**## How to Use
-[1] Clone or Download: Clone the repository or download the Python script (algorithmic_trading_arima.py).
+## How to Use
 
-[2] Prepare Dataset: Place your historical stock price dataset in CSV format and specify the file path in the script.
+[1] Clone or Download: 
+
+Clone the repository or download the Python script (algorithmic_trading_arima.py).
+
+[2] Prepare Dataset: 
+
+Place your historical stock price dataset in CSV format and specify the file path in the script.
 
 --python--
 file_path = '/path/to/your/stock_data.csv'
