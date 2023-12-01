@@ -10,12 +10,17 @@ Visualizations: Provides visual representations, including bar charts for cumula
 
 **## How to Use
 [1] Clone or Download: Clone the repository or download the Python script (algorithmic_trading_arima.py).
+
 [2] Prepare Dataset: Place your historical stock price dataset in CSV format and specify the file path in the script.
-[3]--python--
+
+--python--
 file_path = '/path/to/your/stock_data.csv'
-Run the Script: Execute the script using the command:
-[4]--bash--
+
+[3]Run the Script: Execute the script using the command:
+
+--bash--
 python ARIMA.py
+
 Explore Results: View the printed stock data, including SMA, trading signals, ARIMA predictions, and Buy/Sell signals.**
 
 ## Strategy Steps
